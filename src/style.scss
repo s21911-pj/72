@@ -1,0 +1,59 @@
+body {
+  background-color: lightgray;
+}
+
+.shuffle {
+  margin-left: 100px;
+  border-radius: 15px;
+}
+
+section {
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  background-color: blueviolet;
+  width: 300px;
+}
+button{
+  width: auto;
+  border-radius: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  float: left;
+  border-radius: 5px;
+  margin: 10px 10px 10px 10px;
+  list-style-type: none;
+}
+
+
+.likesContainer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.rm {
+  margin-left: 100px;
+  margin-top: 10px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 30px;
+}
